@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matheus\\Documents\\ETEC\\2°SEM\\DS\\ApiGerenciadora\\GerenciadorApi.csproj": {}
+    "C:\\Users\\Matheus\\OneDrive\\Documentos\\ETEC\\2°SEM\\DS\\ApiGerenciadora\\GerenciadorApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matheus\\Documents\\ETEC\\2°SEM\\DS\\ApiGerenciadora\\GerenciadorApi.csproj": {
+    "C:\\Users\\Matheus\\OneDrive\\Documentos\\ETEC\\2°SEM\\DS\\ApiGerenciadora\\GerenciadorApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus\\Documents\\ETEC\\2°SEM\\DS\\ApiGerenciadora\\GerenciadorApi.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus\\OneDrive\\Documentos\\ETEC\\2°SEM\\DS\\ApiGerenciadora\\GerenciadorApi.csproj",
         "projectName": "GerenciadorApi",
-        "projectPath": "C:\\Users\\Matheus\\Documents\\ETEC\\2°SEM\\DS\\ApiGerenciadora\\GerenciadorApi.csproj",
+        "projectPath": "C:\\Users\\Matheus\\OneDrive\\Documentos\\ETEC\\2°SEM\\DS\\ApiGerenciadora\\GerenciadorApi.csproj",
         "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matheus\\Documents\\ETEC\\2°SEM\\DS\\ApiGerenciadora\\obj\\",
+        "outputPath": "C:\\Users\\Matheus\\OneDrive\\Documentos\\ETEC\\2°SEM\\DS\\ApiGerenciadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"

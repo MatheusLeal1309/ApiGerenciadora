@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0sh1EScQtco=",
+  "dgSpecHash": "NYM2HECHDI0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matheus\\Documents\\ETEC\\2°SEM\\DS\\ApiGerenciadora\\GerenciadorApi.csproj",
+  "projectFilePath": "C:\\Users\\Matheus\\OneDrive\\Documentos\\ETEC\\2°SEM\\DS\\ApiGerenciadora\\GerenciadorApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matheus\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Matheus\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

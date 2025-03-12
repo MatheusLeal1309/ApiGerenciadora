@@ -57,7 +57,7 @@ namespace GerenciadorApi.Controllers
 
 
         [HttpPost("Autenticar")]
-        public async Task<IActionResult> AtutenticarUsuario(Usuario credenciais)
+        public async Task<IActionResult> AutenticarUsuario(Usuario credenciais)
         {
             try
             {

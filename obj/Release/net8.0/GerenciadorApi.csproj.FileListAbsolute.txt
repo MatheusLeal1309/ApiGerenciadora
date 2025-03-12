@@ -135,3 +135,4 @@ C:\Users\Matheus\Documents\ETEC\2°SEM\DS\ApiGerenciadora\obj\Release\net8.0\ref
 C:\Users\Matheus\Documents\ETEC\2°SEM\DS\ApiGerenciadora\obj\Release\net8.0\GerenciadorApi.pdb
 C:\Users\Matheus\Documents\ETEC\2°SEM\DS\ApiGerenciadora\obj\Release\net8.0\GerenciadorApi.genruntimeconfig.cache
 C:\Users\Matheus\Documents\ETEC\2°SEM\DS\ApiGerenciadora\obj\Release\net8.0\ref\GerenciadorApi.dll
+C:\Users\Matheus\Documents\ETEC\2°SEM\DS\ApiGerenciadora\obj\Release\net8.0\GerenciadorApi.sourcelink.json

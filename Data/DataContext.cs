@@ -12,7 +12,6 @@ namespace GerenciadorApi.Data
     {
         public DataContext(DbContextOptions<DataContext> options) : base(options)
         {
-            
         }
 
         public DbSet<Usuario> TB_USURARIO {get; set;}
